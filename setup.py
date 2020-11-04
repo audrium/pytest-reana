@@ -40,7 +40,7 @@ install_requires = [
     "click>=7.0",
     "coverage>=5.0,<6.0",
     'jsonschema>=3.2.0,<4.0; python_version>="3"',
-    'jsonschema<=3.2.0; python_version=="2.7"',
+    'jsonschema<=3.1.0; python_version=="2.7"',
     "mock>=3.0,<4.0",
     "pika>=0.12.0,<0.13",
     'pydocstyle>=5.0.0,<6.0.0 ; python_version>="3"',
